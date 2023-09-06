@@ -1,0 +1,17 @@
+C:\Users\basic\OneDrive\Desktop\MSSA Projects\StoryBrook High GradeBook\StoryBrook High GradeBook\bin\Debug\net7.0\StoryBrook High GradeBook.exe
+C:\Users\basic\OneDrive\Desktop\MSSA Projects\StoryBrook High GradeBook\StoryBrook High GradeBook\bin\Debug\net7.0\StoryBrook High GradeBook.deps.json
+C:\Users\basic\OneDrive\Desktop\MSSA Projects\StoryBrook High GradeBook\StoryBrook High GradeBook\bin\Debug\net7.0\StoryBrook High GradeBook.runtimeconfig.json
+C:\Users\basic\OneDrive\Desktop\MSSA Projects\StoryBrook High GradeBook\StoryBrook High GradeBook\bin\Debug\net7.0\StoryBrook High GradeBook.dll
+C:\Users\basic\OneDrive\Desktop\MSSA Projects\StoryBrook High GradeBook\StoryBrook High GradeBook\bin\Debug\net7.0\StoryBrook High GradeBook.pdb
+C:\Users\basic\OneDrive\Desktop\MSSA Projects\StoryBrook High GradeBook\StoryBrook High GradeBook\obj\Debug\net7.0\StoryBrook High GradeBook.csproj.AssemblyReference.cache
+C:\Users\basic\OneDrive\Desktop\MSSA Projects\StoryBrook High GradeBook\StoryBrook High GradeBook\obj\Debug\net7.0\StoryBrook High GradeBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basic\OneDrive\Desktop\MSSA Projects\StoryBrook High GradeBook\StoryBrook High GradeBook\obj\Debug\net7.0\StoryBrook High GradeBook.AssemblyInfoInputs.cache
+C:\Users\basic\OneDrive\Desktop\MSSA Projects\StoryBrook High GradeBook\StoryBrook High GradeBook\obj\Debug\net7.0\StoryBrook High GradeBook.AssemblyInfo.cs
+C:\Users\basic\OneDrive\Desktop\MSSA Projects\StoryBrook High GradeBook\StoryBrook High GradeBook\obj\Debug\net7.0\StoryBrook High GradeBook.csproj.CoreCompileInputs.cache
+C:\Users\basic\OneDrive\Desktop\MSSA Projects\StoryBrook High GradeBook\StoryBrook High GradeBook\obj\Debug\net7.0\StoryBrook High GradeBook.dll
+C:\Users\basic\OneDrive\Desktop\MSSA Projects\StoryBrook High GradeBook\StoryBrook High GradeBook\obj\Debug\net7.0\refint\StoryBrook High GradeBook.dll
+C:\Users\basic\OneDrive\Desktop\MSSA Projects\StoryBrook High GradeBook\StoryBrook High GradeBook\obj\Debug\net7.0\StoryBrook High GradeBook.pdb
+C:\Users\basic\OneDrive\Desktop\MSSA Projects\StoryBrook High GradeBook\StoryBrook High GradeBook\obj\Debug\net7.0\StoryBrook High GradeBook.genruntimeconfig.cache
+C:\Users\basic\OneDrive\Desktop\MSSA Projects\StoryBrook High GradeBook\StoryBrook High GradeBook\obj\Debug\net7.0\ref\StoryBrook High GradeBook.dll
+C:\Users\basic\OneDrive\Desktop\MSSA Projects\StoryBrook High GradeBook\StoryBrook High GradeBook\bin\Debug\net7.0\Colorful.Console.dll
+C:\Users\basic\OneDrive\Desktop\MSSA Projects\StoryBrook High GradeBook\StoryBrook High GradeBook\obj\Debug\net7.0\StoryBrook High GradeBook.csproj.CopyComplete
